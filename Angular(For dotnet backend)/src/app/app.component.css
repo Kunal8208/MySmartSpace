@@ -1,0 +1,74 @@
+.imageAd{
+    height:20%;
+    width:20%;
+    }
+    
+    .imageAd{
+        height:20%;
+        width:20%;
+        }
+        .alignment{
+            width: 100%;
+            height: 80%;
+            
+            
+        }
+        .scrolling{
+            color: red;
+            
+         font-stretch: expanded;
+         
+        
+            
+        }
+        .alignment12{
+           
+            width: 10%;
+            height: 5%
+        }
+        .alignment123{
+           
+            width: 25%;
+            height: 20%
+        }
+        .image{
+            width:60%;
+            height:50%;
+        }
+        
+        .thumbnail {
+            width: 100px;
+        }
+        .movie-thumbnail {
+            width: 50%;
+            height: 50;
+            /* border: 2px solid #333; */
+            /* border-radius: 5px; */
+            padding: 10px;
+            -webkit-box-shadow: 10px 10px 15px 1px #D1CCC4;
+            box-shadow: 10px 10px 15px 1px #D1CCC4;
+        }
+        
+        
+        .movie-info {
+            position: absolute;
+            top: 10px;
+            left: 130px;
+        }
+        
+        .btn-toggle {
+            position: absolute;
+            top: 0;
+            left: 10px;
+            height: 25px;
+            background-color: transparent;
+            border: none;
+        }
+        
+        .movie-list-contents {
+            margin-top: 40px;
+        }
+        
+        .movie-list-item:hover {
+            cursor: pointer;
+        }
